@@ -1,0 +1,21 @@
+dependencies:
+  espressif/led_strip:
+    component_hash: fc66f8544851132555bc668475f7b68acd6a211c8075db5ce1951cbfa27dfb88
+    source:
+      storage_url: file:///C:/101_coding/106_Espressif_extracted/registry
+      type: service
+    version: 2.5.4
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.2.2
+  protocol_examples_common:
+    component_hash: null
+    source:
+      path: C:\101_coding\106_Espressif_extracted\frameworks\esp-idf-v5.2.2\examples\common_components\protocol_examples_common
+      type: local
+    version: '*'
+manifest_hash: 92c7b1202a52b5e719d223fac8b6b312b12d1045e79ff0f15e415593a5d90416
+target: esp32s3
+version: 1.0.0
